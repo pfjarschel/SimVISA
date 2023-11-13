@@ -9,6 +9,7 @@ The basic idea is mainly composed of 4 elements:
 Requires PyVisa, PyQt6, Numpy, and Matplotlib.
 
 To run the examples, simply run a setup_xxx.py file, and create a script just like you would in a real lab! Or, run one of the example scripts.
+Should go without saying, but the setup must be kept running in the background, and the script should run in another python instance.
 
 VISA commands documentation will be provided in the near future.
 This readme will be updated in the near future to include more details.
